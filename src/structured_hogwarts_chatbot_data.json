@@ -1,0 +1,142 @@
+[
+  {
+    "chunk_id": "intro_001",
+    "title": "Introduction",
+    "content": "The Hogwarts Summer School is a one-week immersive research program by New Uzbekistan University for high school (grades 9–11) and university students. It offers hands-on experience in various disciplines with a Hogwarts-themed atmosphere.",
+    "tags": [
+      "introduction",
+      "overview",
+      "summer school",
+      "Hogwarts",
+      "students",
+      "NewUU"
+    ],
+    "source": null
+  },
+  {
+    "chunk_id": "goals_002",
+    "title": "Goals",
+    "content": "The program aims to develop students' research skills, build a vibrant community, and cultivate leadership. Focus areas include STEM, political science, and community engagement.",
+    "tags": [
+      "goals",
+      "research",
+      "STEM",
+      "political science",
+      "leadership",
+      "community"
+    ],
+    "source": null
+  },
+  {
+    "chunk_id": "milestones_003",
+    "title": "Milestones",
+    "content": "Key milestones include funding applications (Autumn 2024), application period (Winter 2025), online mentoring (Spring 2025), remote project work (June/July), and the one-week immersive camp (August 2025).",
+    "tags": [
+      "timeline",
+      "schedule",
+      "milestones",
+      "camp",
+      "funding",
+      "mentoring"
+    ],
+    "source": null
+  },
+  {
+    "chunk_id": "selection_004",
+    "title": "Student Selection Process",
+    "content": "Eligible students apply through three stages: (1) essay and CV, (2) research case study, and (3) interview. Communication happens mainly via the official Telegram channel.",
+    "tags": [
+      "admission",
+      "selection",
+      "application",
+      "process",
+      "eligibility",
+      "Telegram"
+    ],
+    "source": "HOGWARTS (ADMISSION)"
+  },
+  {
+    "chunk_id": "academics_005",
+    "title": "Academic Program Overview",
+    "content": "Covers topics like software technologies, institutions, ecology, and education. Uses the SPRINT methodology over 12 weeks of online sessions starting early March until mid-May.",
+    "tags": [
+      "academic",
+      "SPRINT",
+      "agile",
+      "education",
+      "online",
+      "sessions",
+      "subjects"
+    ],
+    "source": "Academic Program Overview"
+  },
+  {
+    "chunk_id": "social_006",
+    "title": "Social Engagement Activities",
+    "content": "Includes Quidditch tournaments, magical creature exhibits, and collaboration workshops. Major activities occur during the camp in August 2025 near Tashkent.",
+    "tags": [
+      "games",
+      "social",
+      "Quidditch",
+      "activities",
+      "networking",
+      "Tashkent"
+    ],
+    "source": "Program Schedule: Hogwarts Summer School Project 2025"
+  },
+  {
+    "chunk_id": "budget_007",
+    "title": "Budgeting",
+    "content": "Estimated cost per participant is $87. Funding depends on sponsors; otherwise, self-funding is required. Max capacity is 200 students.",
+    "tags": [
+      "budget",
+      "cost",
+      "funding",
+      "participants",
+      "sponsorship",
+      "camp capacity"
+    ],
+    "source": "Budget Plan for Hogwarts Summer School Project 2024"
+  },
+  {
+    "chunk_id": "cohorts_008",
+    "title": "Previous Cohorts & Statistics",
+    "content": "Covers four previous cohorts from 2022 to 2024. The project's website offers demographic stats and regional data of applicants.",
+    "tags": [
+      "cohorts",
+      "statistics",
+      "history",
+      "website",
+      "data",
+      "participants"
+    ],
+    "source": "https://hogwarts.streamlit.app"
+  },
+  {
+    "chunk_id": "initiator_009",
+    "title": "Main Initiator",
+    "content": "New Uzbekistan University supports the program with expertise, dormitories, financial help, transportation, and administrative assistance.",
+    "tags": [
+      "support",
+      "NewUU",
+      "university",
+      "founders",
+      "organization"
+    ],
+    "source": null
+  },
+  {
+    "chunk_id": "contact_010",
+    "title": "Contact Information",
+    "content": "Phone: +998 93-755-77-52 (School), +998 71-202-41-11 (University). Emails: schoolinfo@newuu.uz, info@newuu.uz. Socials: Website, Telegram, YouTube, Instagram.",
+    "tags": [
+      "contact",
+      "email",
+      "phone",
+      "social media",
+      "Telegram",
+      "NewUU"
+    ],
+    "source": null
+  }
+]
